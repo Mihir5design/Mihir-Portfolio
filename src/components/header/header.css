@@ -1,0 +1,7 @@
+.navbar-item { z-index: 100; border-radius: 0 0 42px 42px; padding: 0 48px; backdrop-filter: blur(10px); }
+.header-blur { z-index: 100; backdrop-filter: blur(10px); }
+
+
+@media(max-width: 768px) {
+    .navbar-item { padding: 30px 20px;}
+}
