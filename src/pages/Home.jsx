@@ -183,7 +183,7 @@ function Home() {
                   className="text-[#FFFFFF] mb-[20px] font-[400] sm:text-[16px] text-[12px] opacity-50 sm:leading-[21.6px] leading-[16.2px]"
                 >
                   {" "}
-                  A survey by <a className="underline">Hubspot</a>
+                  A survey by <span className="underline">Hubspot</span>
                 </p>
                 <img src="/assets/home/hub-spot.webp" alt="" />
               </div>
@@ -326,7 +326,7 @@ function Home() {
                   style={{ fontFamily: "Satoshi" }}
                   className="text-[#FFFFFF] mb-[20px] font-[400] sm:text-[16px] text-[12px] sm:leading-[21.6px] leading-[16.2px] opacity-50"
                 >
-                  A survey by <a className="underline">Hubspot</a>
+                  A survey by <span className="underline">Hubspot</span>
                 </p>
                 <img src="/assets/home/hub-spot.webp" alt="" />
               </div>
